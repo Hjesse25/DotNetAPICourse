@@ -1,4 +1,6 @@
-﻿Computer myComputer = new Computer()
+﻿using Intermediate.Models;
+
+Computer myComputer = new Computer()
 {
     Motherboard = "Z690",
     HasWifi = true,
